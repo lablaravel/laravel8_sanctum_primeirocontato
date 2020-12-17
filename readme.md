@@ -1,11 +1,10 @@
 # Sobre o projeto
 
-Estrutura inicial para desenvolver com laravel usando laravel/ui, inertija.js e 
-vue-bootstrap.
+Criando um projeto com laravel usando o Sanctum
 
 # Infraestrutura 
  * [nginx:1.19.5-alpine](https://hub.docker.com/_/nginx) - [versions](https://nginx.org/en/CHANGES)
- * [php:7.4-fpm](https://hub.docker.com/_/php)
+ * [php:8.0-fpm](https://hub.docker.com/_/php)
  * [redis:alpine](https://hub.docker.com/_/redis)
  * [phpmyadmin:latest](https://hub.docker.com/_/phpmyadmin)
  * [Mysql 8.0](https://hub.docker.com/_/mysql)
