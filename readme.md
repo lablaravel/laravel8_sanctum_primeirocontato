@@ -1,6 +1,7 @@
 # Sobre o projeto
 
-Criando um projeto com laravel usando o Sanctum
+Criando um projeto com laravel usando o Sanctum. Aprendido nessa [video aula](github.com/anil-sidhu/laravel-sanctum)
+- Última atualizaçãõ 5:18 
 
 # Infraestrutura 
  * [nginx:1.19.5-alpine](https://hub.docker.com/_/nginx) - [versions](https://nginx.org/en/CHANGES)
